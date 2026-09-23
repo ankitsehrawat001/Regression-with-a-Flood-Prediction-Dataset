@@ -4,7 +4,8 @@ A Streamlit web app that estimates flood probability from environmental, infrast
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<img src="images/Recording%202026-09-23%20122414.gif" width="500" alt="Demo">
+<img src="./images/Recording%202026-09-23%20122414.gif" width="500" alt="Demo">
+
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
