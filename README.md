@@ -1,6 +1,14 @@
 # AquaSignal Flood Intelligence
 
 A Streamlit web app that estimates flood probability from environmental, infrastructure, and human-pressure indicators using a trained linear regression model.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<img src="images/Recording%202026-09-23%20122414.gif" width="500" alt="Demo">
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ## Features
 
